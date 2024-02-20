@@ -19,6 +19,7 @@
 
 Alternatively try running
 npm install express body-parser
+npm install bootstrap
 
 
 
