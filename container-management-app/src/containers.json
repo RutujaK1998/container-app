@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Container 1",
+        "maxMemory": 512,
+        "diskSize": 10,
+        "startImmediately": false
+    },
+    {
+        "id": 2,
+        "name": "Container 2",
+        "maxMemory": 1024,
+        "diskSize": 20,
+        "startImmediately": true
+    }
+]
